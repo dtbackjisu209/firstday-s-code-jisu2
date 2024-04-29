@@ -1,0 +1,425 @@
+.header {
+  display: flex;
+
+  background-color: black;
+  width:1549px;
+}
+
+.header img {
+  height: 350px;
+  width: 300px;
+}
+
+.header .intk .sapxep {
+  display: flex;
+  font-size: 25px;
+}
+
+.header .intk .sapxep div {
+  background-color: black;
+
+  margin-left: 0px;
+  margin-right: 75px;
+  margin-bottom: 40px;
+}
+
+.header .sapxep div a:hover {
+  color: aqua;
+}
+
+.header .intk {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.outsidepicture {
+  position: relative;
+}
+
+.innercontent {
+  position: absolute;
+  left: 50px;
+  top: 100px;
+  color: white;
+}
+
+.innercontent2 {
+  position: absolute;
+  left: 50px;
+  top: 250px;
+  color: white;
+}
+
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-size: 35px;
+  font-style: normal;
+}
+
+.edit {
+  background-color: linear-gradient(to right, white 50%, transparent 0%):;
+  ;
+  border-radius: 20px;
+  border: 2px solid white;
+  padding: 20px;
+  transition: all 0.5s ease;
+  text-transfrom: uppercase;
+
+}
+.innerwrap {
+  display: flex;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+
+
+
+.supercontainer {
+  position: relative;
+  background-color: black;
+  width:1549px;
+}
+
+.innerwrap {
+  display: flex;
+  position: relative;
+}
+
+.innerbox {
+  position: relative;
+  border: 2px solid black;
+  height: 600px;
+  width: 350px;
+  margin-right: 20px;
+  background-color: white;
+  margin-bottom: 20px;
+}
+
+.onlinepic {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  border: 2px solid black;
+}
+
+.content {
+  position: absolute;
+  left: 30px;
+  top: 250px;
+}
+
+.content2 {
+  position: absolute;
+
+  left: 30px;
+  top: 320px;
+}
+
+.nhan {
+  border: 2px solid black;
+  border-radius: 70px;
+  box-sizing: content-box;
+  background-color: black;
+
+  color: white;
+  width: 80px;
+  padding: 20px;
+  text-align: center;
+  position: absolute;
+  top: 520px;
+  left: 115px;
+}
+
+.roboto-thin2 {
+  font-family: "Roboto", sans-serif;
+
+  font-style: normal;
+}
+
+.innerbox div a:hover {
+  color: aqua;
+}
+
+.hodang {
+
+  position: relative;
+  background-color:red;
+
+  
+}
+
+
+
+
+
+.title2 {
+  font-size: 50px;
+  position: absolute;
+  color: black;
+  top: 50px;
+  left: 655px;
+}
+
+.quote {
+  position: absolute;
+  top: 120px;
+  left: 490px;
+  color: black;
+  font-size:20px;
+  font-style: italic;
+}
+.quote2 {
+  position: absolute;
+  top: 150px;
+  left: 530px;
+  color: black;
+  font-size:20px;
+  font-style: italic;
+}
+.ookiibox
+{position:absolute;
+ top:250px;
+ left:150px;
+
+
+}
+.phanchia
+{display:flex;}
+.locobox2
+{border:1px solid black;
+ width:400px;
+ height:550px;
+ border-bottom:0px;
+ position:relative;}
+ .locobox
+ {
+  width:400px;
+  height:550px;
+  position:relative;}
+
+ .anhnen
+ {position:absolute;
+  top:0px;
+  left:0px;
+  transition: width,height;2s,linear;}
+.locobox2 .anhnen a img:hover{width:400px;
+ height:410px;}
+ .locobox .anhnen a img:hover{width:400px;
+  height:410px;}
+  .tde
+  {position:absolute;
+   top:420px;
+   left:20px;
+   font-family: "Roboto", sans-serif;
+   font-style: normal;}
+  .ndung
+  {position:absolute;
+   top:460px;
+   left:20px;
+   font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color:rgb(129, 129, 122);
+  }
+  .button3
+  {position:absolute;
+   font-size:20px;
+   top:590px;
+   left:510px;
+   border:1px solid black;
+   color:black;
+   padding:20px; box-sizing:border-box  ;
+   border-radius: 40px;
+   overflow:hidden;
+   background-image:;
+   transition:background-image 4s;
+
+  
+  
+  }
+  .button3:hover
+  {background-image:linear-gradient(to left,black ,pink);}
+  .newclass
+  {background-color:rgb(224, 224, 211);
+   position:absolute;
+   top:2900px;
+   width:1549px;
+   height:1000px;
+
+   }
+   .title9
+   {text-align:center;
+    font-size:53px;
+    padding:70px;
+   }
+   .pt-serif-regular {
+    font-family: "PT Serif", serif;
+    font-weight: 400;
+    font-style:italic;
+    font-size:20px;
+  }
+   .boxbox
+   {display:flex;
+    margin-left:151px;
+   }
+   .minibox
+   {
+     border:1px solid black;
+     border-bottom:0px solid black;
+    width:400px;
+    height:550px;
+    position:relative;
+    }
+    .minibox2
+    {
+      border-top:1px solid black;
+          width:400px;
+     height:550px;
+     position:relative;
+     }
+   .picpic
+   {
+    position:absolute;
+    top :0px;
+    left:0px;
+    transition :width,height;2s;linear;}
+    .picpic a img:hover
+    {width:400px ;
+     height:410px;}
+   .ventitle
+   {position:absolute;
+    font-size:15px;
+    top:420px;
+    left:20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;}
+   
+   .vencontent
+   {position:absolute;
+    font-size:15px;
+    color:rgb(129, 129, 122);
+    
+    top:450px;
+    left:20px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;}
+    .newclass2
+    {background-color:white;
+     position:absolute;
+     top:3900px;
+     width:1549px;
+     height:900px;
+  
+     }
+     .button4
+  {position:absolute;
+   font-size:20px;
+   top:900px;
+   left:680px;
+   border:1px solid black;
+   color:black;
+   padding:20px; box-sizing:border-box  ;
+   border-radius: 40px;
+   overflow:hidden;
+   background-image:;
+   transition:background-image 4s;
+
+  
+  
+  }
+  .button4:hover
+  {background-image:linear-gradient(to left,black ,pink);}
+  .newclass3
+  {background-color:rgb(224, 224, 211);
+   position:absolute;
+   top:4900px;
+   width:1549px;
+   height:1000px;
+
+   } 
+   .newclass3
+  {background-color:rgb(224, 224, 211);
+   position:absolute;
+   top:4900px;
+   width:1549px;
+   height:1000px;
+
+   } 
+   .newclass4
+   {background-color:white;
+    position:absolute;
+    top:5900px;
+    width:1549px;
+    height:1000px;
+ 
+    } 
+    .newclass5
+   {background-color:black;
+    position:absolute;
+    top:6900px;
+    width:1549px;
+    height:480px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    
+ 
+ 
+    } 
+  .boc{
+    display:flex;
+    flex-direction:column;
+    position:relative;
+
+
+  }
+  .nhan2{
+  position:absolute;
+  top:50px;
+  left:695px;
+  color:white;
+  }
+  
+ 
+  .bao{
+    display:flex;
+    position:absolute;
+    top:200px;
+    left:40px;
+    font-size:20px;
+    
+  }
+  .khoi{
+  margin-right:120px;
+  top
+  display:flex;
+  flex-direction:column;
+  }
+  .khoi2{
+    
+    top
+    display:flex;
+    flex-direction:column;
+    }
+  .bao div a:hover{color:aqua;}
+  .meomeo
+  {position:absolute;
+   top:400px;
+   left:40px;
+   font-size:25px;
+   color:white;
+   display:flex;
+  }
+  .gaugau
+  {margin-right:30px;}
+    
+    
+ 
+
+
+  
